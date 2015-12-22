@@ -1,2 +1,0 @@
-require version-bootloader=L710TVPU0ANF4
-
